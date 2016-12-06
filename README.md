@@ -1,4 +1,4 @@
-# PracticeFusionCodeChalenge
+# PracticeFusionCodeChallenge
 
 This project was created for Practice Fusion coding challenge.
 
